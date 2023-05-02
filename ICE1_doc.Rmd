@@ -1,0 +1,169 @@
+---
+title: "In-Class Exercise #1: Chapter 1"
+subtitle: 'DUE: Tuesday Jan. 31 by 11:59 PM'
+output:
+  html_document:
+    df_print: paged
+geometry: margin=1.5cm
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Instructions: 
+This In-Class Exercise has us apply various concepts from Chapter 1. Problem \#1 focuses on Section 1.1 concepts; while Problem 2 focuses on Section 1.2/1,3.
+
+# Submission and Grading
+In-Class Exercises are graded as Complete or Incomplete. To receive a complete grade, you MUST ANSWER EVERY QUESTION to the best of your ability. For instance, if you do not answer ONE QUESTION, you will receive an incomplete on this assignment. The purpose of this grading scale is to ensure you are attempting every problem and working to learn the material. 
+
+# Problem \#1: Sampling Methods
+When we walk into class today, every one was randomly assigned to into one of the following **13 different groups** each with about **4 people** : Star, Guitar, Lightening Bolt, Smily Face, Diamond, Anchor, Astronut, Ballons, Dount, Dinosaur, Butterfly, Cake, and Cane Cane
+
+Find your group members and introduce yourself.  PLS REMEMBER I WAS NOT IN A GROUP :)
+
+## Describe How You Would Preform Each Sampling Methods
+
+**Q1:** If we were interested in performing a Simple Random Sample (SRS) on our class, describe in detail how you could do this. 
+
+$~$ If I was interested in performing a Simple Random Sample (SRS) on our class and for example lets say we want to find the average height to do so our sample will be selecting 50% of the class and measuring their height and then find the average through the mean.
+
+**Q2:** If we were interested in performing a Cluster Sample on our class, describe in detail how you could do this. 
+
+$~$ If I wanted to perform a cluster sample on our class I would first group the people in our class by grade thus giving 4 groups and, then I would select one group, and with that group I can then perform what ever experiment, but with that group I chose only as it represents our sample.
+
+**Q3:** If we were interested in performing a Stratified Sample on our class, describe in detail how you could do this. 
+
+$~$ If I wanted to perform a Stratified Sample of our class, say by main coding language, I would group the class into Strata with each representing their main coding languages for example lets say I have a 10 people in Python and then 15 in Java and 10 people with RStudio I would use (SRS) to the get 4 RANDOM people from each strata to then give me my sample.
+
+**Q4:** If we were interested in performing a Convenience Sample on our class, describe in detail how you could do this. 
+
+$~$ If I were to perform a Convenience Sample, on say average height. For my sample I would choose the 4 people that sit right next to me, thus giving my sample which I can then measure and find the average height
+
+
+## Counting M\&M 
+
+**Q5:** Given your individual fun size packet of M \& M, count and record the frequency and relative frequency of each color. 
+
+\begin{center}
+\begin{tabular}{ |c|c|c|}
+ \hline
+ COLOR & FREQUENCY & RELATIVE FREQUENCY \\ \hline \hline
+ BLUE  &  \rule{0pt}{1cm} &  \rule{0pt}{1cm} \\  \hline
+ BROWN &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ GREEN & \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ RED &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ YELLOW & \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ ORANGE &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+\end{tabular} \end{center}
+
+**Q6:** Compare your results with your group and write several complete sentences about your discoveries. Things to think about: how do the individual sample compares to each other?, are the individual packets representative sample of M \& M? and would individual packets be a good sampling method?
+
+$~$ \newline \newline \newline \newline \newline \newline
+
+
+
+
+**Q7:** Count and record the frequency and relative frequency of each color for your symbol group. 
+
+\begin{center}
+\begin{tabular}{ |c|c|c|}
+ \hline
+ COLOR & FREQUENCY & RELATIVE FREQUENCY \\ \hline \hline
+ BLUE  &  \rule{0pt}{1cm} &  \rule{0pt}{1cm} \\  \hline
+ BROWN &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ GREEN & \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ RED &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ YELLOW & \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ ORANGE &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+\end{tabular} \end{center}
+
+**Q8:** Compare your individual and group M\& M results and write several complete sentences about your discoveries. 
+
+
+$~$ \newpage 
+
+**Q9:** Break up into the following three groups:
+
+\begin{center}
+\begin{tabular}{ |c|c|c|}
+ \hline
+ Group 1 & Group 2 & Group 3 \\ \hline \hline
+ Star & Diamond & Dinosaur \\ 
+ Guitar & Anchor & Butterfly \\ 
+ Lightening Bolt & Astronaut & Cake \\
+ Smiley Face & Balloons & Cane Cane \\
+  & Donut &  \\ \hline 
+\end{tabular} \end{center}
+
+Count and record the frequency and relative frequency of each color for your entire group. 
+
+\begin{center}
+\begin{tabular}{ |c|c|c|}
+ \hline
+ COLOR & FREQUENCY & RELATIVE FREQUENCY \\ \hline \hline
+ BLUE  &  \rule{0pt}{1cm} &  \rule{0pt}{1cm} \\  \hline
+ BROWN &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ GREEN & \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ RED &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ YELLOW & \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+ ORANGE &  \rule{0pt}{1cm} &  \rule{0pt}{1cm}  \\  \hline
+\end{tabular} \end{center}
+
+
+**Q10:** Return back to your symbol groups and discuss your thoughts about the results from Q7 and Q9. 
+
+$~$ \newline \newline \newline \newline \newline \newline
+
+
+
+**Q11:** Connecting Concepts to Definitions: 
+
+1. What is the population of interest for our M\& M? \newline \newline \newline
+2. What do we call the variability between our samples?  \newline \newline \newline
+3. Did we perform an observational or experimental study? Explain. \newline \newline \newline
+
+$~$ \newpage 
+
+# Problem \#2: Descriptive Statistics and Graphical Summaries
+
+Read in \textcolor{blue}{ice1\_cmda.csv} file and perform the following tasks:
+
+```{r}
+dat <- read.csv("ice1_cmda.csv")
+colnames(dat)
+
+# We can grab the data in the column by using $:
+head(dat$values)
+```
+
+## Plot a histogram of the data
+```{r}
+# histogram
+hist(dat$values)
+```
+
+## Plot a boxplot of the data
+```{r}
+# Boxplot
+boxplot(dat$values)
+boxplot(dat$values, horiontal = TRUE)
+```
+
+## Calculate the Mean, Median, and Standard Deviation
+```{r}
+# Mean
+mean(dat$values)
+#Median 
+median(dat$values)
+# Standard Deviation
+sd(dat$values)
+```
+
+**Q12:** Is our data left-skewed, right-skewed, or symmetric? 
+
+$~$ Skewed to the left.
+
+**Q13:** What is the relationship between the mean and median in this data? That is, which values is greater? 
+
+$~$ The median value is greater than the mean. 
